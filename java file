@@ -1,0 +1,4 @@
+class Myclass{
+public static void main (STring args[]){
+System.out.println("example of comand line");/command line example/
+}}
